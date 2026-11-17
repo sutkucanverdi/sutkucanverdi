@@ -13,43 +13,6 @@
 
 I'm **Utku**, a software engineering student at **Çankaya University** in Ankara. I like building the whole system: backend services, web interfaces, data pipelines and ML models — and I'm especially drawn to **AI** and **FinTech**.
 
-## Start here
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>01 / FINTECH × AI</b></sub>
-      <h3><a href="https://github.com/sutkucanverdi/cebio">Cebio</a></h3>
-      An autonomous wallet auditor. Reads receipts and bank statements with Gemini, tracks subscriptions and price hikes, and answers <i>“how much did I spend on coffee?”</i>
-      <br><br>
-      <a href="https://github.com/sutkucanverdi/cebio"><b>Open the repo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>02 / RESEARCH</b></sub>
-      <h3><a href="https://github.com/sutkucanverdi/piano-fingering-ml">Piano Fingering ML</a></h3>
-      A deep learning model that predicts optimal finger positions for classical piano scores. Data preprocessing, feature extraction and PyTorch training — built at VISTA Lab.
-      <br><br>
-      <a href="https://github.com/sutkucanverdi/piano-fingering-ml"><b>See the notebooks →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub><b>03 / ALGORITHMS</b></sub>
-      <h3><a href="https://github.com/cemkagba/-Knight-Path-Finder---Algorithm-Visualizer">Knight Path Finder</a></h3>
-      An algorithm visualizer: BFS shortest knight path around obstacles, step by step. Playable on my site too.
-      <br><br>
-      <a href="https://utkucanverdi.vercel.app/#interactive"><b>Try the demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <sub><b>04 / PORTFOLIO</b></sub>
-      <h3><a href="https://utkucanverdi.vercel.app">utkucanverdi.vercel.app</a></h3>
-      My personal site: experience, projects, interactive demos, and an AI assistant that answers questions about my CV.
-      <br><br>
-      <a href="https://github.com/sutkucanverdi/semih-utku-portfolio"><b>Read the source →</b></a>
-    </td>
-  </tr>
-</table>
-
 ## Where I've worked
 
 | When | Where | What |
